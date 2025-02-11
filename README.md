@@ -10,8 +10,8 @@
 
 <div align="center">
 	<img align="start" height="120" width="150" right="50" src="./assets/image/left.png">
-	<a href="https://github.com/0xIntelTech">
-	<img align="center" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xIntelTech&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+	<a href="https://github.com/0xinteltech">
+	<img align="center" height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0xinteltech&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 	</a>
 	<img align="start" height="120" width="150" src="./assets/image/right.png"/>
 </div>
@@ -51,7 +51,7 @@
 			<code><img width="45" src="./assets/figure/figma.png" alt="Figma" title="Figma"/></code>
 		</div>
 		</td>
-		<td><img src="https://my-stats-43gk.vercel.app/api/top-langs/?username=0xIntelTech&hide=html,scss,css&langs_count=8&layout=compact&theme=github_dark&card_width=150" /></code></td>
+		<td><img src="https://my-stats-43gk.vercel.app/api/top-langs/?username=0xinteltech&hide=html,scss,css&langs_count=8&layout=compact&theme=github_dark&card_width=150" /></code></td>
     </table>
 </div>
 
